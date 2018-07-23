@@ -1,0 +1,23 @@
+.first {
+  width: 40px;
+  text-align: center;
+  background: #ebe9e9;
+  align-content: center;
+  padding-top: 5px;
+  
+}
+.second{
+  width: 40px;
+}
+
+.third {
+  
+  width: 150px;
+  padding-top: 5px;
+  background: #ebe9e9;
+  margin-right: 25px;
+}
+
+#loading, #results{
+  display: none;
+}
